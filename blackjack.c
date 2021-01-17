@@ -446,6 +446,5 @@ int main( int argc, char **argv ) {
     show_player_money_histogram(histrographArray, count);
 
     /* Exit the program successfully */
-    printf( "\n\nCMPSC311 - Assignment #1 - Spring 2020 Complete.\n" );
     return( 0 );
 }
