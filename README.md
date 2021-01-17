@@ -1,2 +1,2 @@
 # blackjack
-A game to have the computer play blackjack against itself (or rather have an imaginary player play)
+A game to have the computer play blackjack against itself (or rather have an imaginary player play). The code will create a deck of cards and then play 100 hands (or less if player goes broke before the 100 hands are complete). This is an automated program that displays a histrogram at the end representing the amount of money the player has after each round. Note that sometimes the player will go broke before round 100, and therefore the value after that will not be set in the array. 
